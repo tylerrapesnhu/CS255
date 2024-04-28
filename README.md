@@ -4,7 +4,7 @@
 # The client, DriverPass, is a company that trains students for their DMV testing. They wanted me to design a program that would house their customers payments, driving records, profile, and so on. 
 
 # What did you do particularly well?
-#I believe both the document template and the graphs created were done partiuclarly well. 
+# I believe both the document template and the graphs created were done partiuclarly well. 
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 # I believe that I could have gone into more detail on the UML Class Diagram. While it wasn't required, per instructions, I believe this could have had a great detail more of information. 
